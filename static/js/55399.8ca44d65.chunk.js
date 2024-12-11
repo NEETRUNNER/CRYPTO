@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkmy_app=self.webpackChunkmy_app||[]).push([[55399],{55399:(a,l,e)=>{e.r(l),e.d(l,{default:()=>t});var r=e(89379),f=e(53986),c=e(9079),p=e(65043),s=e(70579);const h=["fallback"];var k=(0,p.forwardRef)(((a,l)=>{let{fallback:e}=a,p=(0,f.A)(a,h);return(0,s.jsx)(c.h,(0,r.A)((0,r.A)({fallback:e},p),{},{ref:l,children:(0,s.jsx)("path",{fill:"currentColor",d:"M2 2h20v3.571H5.571v2.143H22v3.572H2zm0 10.714h20v3.572H5.571v2.142H22V22H2z"})}))}));k.displayName="TokenEUROE";var t=k}}]);
+//# sourceMappingURL=55399.8ca44d65.chunk.js.map

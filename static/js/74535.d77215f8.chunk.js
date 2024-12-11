@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkmy_app=self.webpackChunkmy_app||[]).push([[74535],{80564:(a,l,e)=>{e.r(l),e.d(l,{default:()=>t});var r=e(89379),f=e(53986),c=e(9079),p=e(65043),s=e(70579);const h=["fallback"];var k=(0,p.forwardRef)(((a,l)=>{let{fallback:e}=a,p=(0,f.A)(a,h);return(0,s.jsx)(c.h,(0,r.A)((0,r.A)({fallback:e},p),{},{ref:l,children:(0,s.jsx)("path",{fill:"currentColor",d:"M2 2h13.572v4.286H6.286V22H2zm20 20H8.429v-4.286h9.285V2H22z"})}))}));k.displayName="TokenKARATE";var t=k}}]);
+//# sourceMappingURL=74535.d77215f8.chunk.js.map
