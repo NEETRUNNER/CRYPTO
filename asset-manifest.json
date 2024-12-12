@@ -1,12 +1,12 @@
 {
   "files": {
     "main.css": "/CRYPTO/static/css/main.abf095f3.css",
-    "main.js": "/CRYPTO/static/js/main.87d0da80.js",
+    "main.js": "/CRYPTO/static/js/main.d73410f4.js",
     "static/js/23447.23f20b59.chunk.js": "/CRYPTO/static/js/23447.23f20b59.chunk.js",
     "static/js/30421.a4c54375.chunk.js": "/CRYPTO/static/js/30421.a4c54375.chunk.js",
     "static/css/47323.b6e35d62.chunk.css": "/CRYPTO/static/css/47323.b6e35d62.chunk.css",
     "static/js/47323.66ef72dc.chunk.js": "/CRYPTO/static/js/47323.66ef72dc.chunk.js",
-    "static/js/76057.699801ae.chunk.js": "/CRYPTO/static/js/76057.699801ae.chunk.js",
+    "static/js/76057.de595a98.chunk.js": "/CRYPTO/static/js/76057.de595a98.chunk.js",
     "static/js/20997.c49fff10.chunk.js": "/CRYPTO/static/js/20997.c49fff10.chunk.js",
     "static/js/82555.cd9d0284.chunk.js": "/CRYPTO/static/js/82555.cd9d0284.chunk.js",
     "static/js/66299.bddf988b.chunk.js": "/CRYPTO/static/js/66299.bddf988b.chunk.js",
@@ -2117,12 +2117,12 @@
     "static/media/slick.woff": "/CRYPTO/static/media/slick.295183786cd8a1389865.woff",
     "index.html": "/CRYPTO/index.html",
     "main.abf095f3.css.map": "/CRYPTO/static/css/main.abf095f3.css.map",
-    "main.87d0da80.js.map": "/CRYPTO/static/js/main.87d0da80.js.map",
+    "main.d73410f4.js.map": "/CRYPTO/static/js/main.d73410f4.js.map",
     "23447.23f20b59.chunk.js.map": "/CRYPTO/static/js/23447.23f20b59.chunk.js.map",
     "30421.a4c54375.chunk.js.map": "/CRYPTO/static/js/30421.a4c54375.chunk.js.map",
     "47323.b6e35d62.chunk.css.map": "/CRYPTO/static/css/47323.b6e35d62.chunk.css.map",
     "47323.66ef72dc.chunk.js.map": "/CRYPTO/static/js/47323.66ef72dc.chunk.js.map",
-    "76057.699801ae.chunk.js.map": "/CRYPTO/static/js/76057.699801ae.chunk.js.map",
+    "76057.de595a98.chunk.js.map": "/CRYPTO/static/js/76057.de595a98.chunk.js.map",
     "20997.c49fff10.chunk.js.map": "/CRYPTO/static/js/20997.c49fff10.chunk.js.map",
     "82555.cd9d0284.chunk.js.map": "/CRYPTO/static/js/82555.cd9d0284.chunk.js.map",
     "66299.bddf988b.chunk.js.map": "/CRYPTO/static/js/66299.bddf988b.chunk.js.map",
@@ -4228,6 +4228,6 @@
   },
   "entrypoints": [
     "static/css/main.abf095f3.css",
-    "static/js/main.87d0da80.js"
+    "static/js/main.d73410f4.js"
   ]
 }
