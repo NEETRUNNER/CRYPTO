@@ -1,13 +1,14 @@
 {
   "files": {
-    "main.css": "/CRYPTO/static/css/main.0191e146.css",
-    "main.js": "/CRYPTO/static/js/main.c8328d8e.js",
+    "main.css": "/CRYPTO/static/css/main.0b7a6e20.css",
+    "main.js": "/CRYPTO/static/js/main.eb2bc5e2.js",
     "static/js/23447.25b59b18.chunk.js": "/CRYPTO/static/js/23447.25b59b18.chunk.js",
     "static/js/30421.c3fce792.chunk.js": "/CRYPTO/static/js/30421.c3fce792.chunk.js",
     "static/css/47323.b6e35d62.chunk.css": "/CRYPTO/static/css/47323.b6e35d62.chunk.css",
     "static/js/47323.325772d4.chunk.js": "/CRYPTO/static/js/47323.325772d4.chunk.js",
-    "static/js/76057.2b5c4c12.chunk.js": "/CRYPTO/static/js/76057.2b5c4c12.chunk.js",
-    "static/js/20997.2fa2d887.chunk.js": "/CRYPTO/static/js/20997.2fa2d887.chunk.js",
+    "static/js/40295.8dc3c8d5.chunk.js": "/CRYPTO/static/js/40295.8dc3c8d5.chunk.js",
+    "static/js/20997.642c254b.chunk.js": "/CRYPTO/static/js/20997.642c254b.chunk.js",
+    "static/js/68582.501fa42b.chunk.js": "/CRYPTO/static/js/68582.501fa42b.chunk.js",
     "static/js/82555.cd9d0284.chunk.js": "/CRYPTO/static/js/82555.cd9d0284.chunk.js",
     "static/js/66299.bddf988b.chunk.js": "/CRYPTO/static/js/66299.bddf988b.chunk.js",
     "static/js/93612.0b7c24bf.chunk.js": "/CRYPTO/static/js/93612.0b7c24bf.chunk.js",
@@ -1217,7 +1218,7 @@
     "static/js/29639.5a78acf9.chunk.js": "/CRYPTO/static/js/29639.5a78acf9.chunk.js",
     "static/js/85645.b6c98d56.chunk.js": "/CRYPTO/static/js/85645.b6c98d56.chunk.js",
     "static/js/67333.92fc198c.chunk.js": "/CRYPTO/static/js/67333.92fc198c.chunk.js",
-    "static/js/98438.ad2bc5b9.chunk.js": "/CRYPTO/static/js/98438.ad2bc5b9.chunk.js",
+    "static/js/76057.bd90678a.chunk.js": "/CRYPTO/static/js/76057.bd90678a.chunk.js",
     "static/js/26794.ca92c2d5.chunk.js": "/CRYPTO/static/js/26794.ca92c2d5.chunk.js",
     "static/js/50504.8fd80508.chunk.js": "/CRYPTO/static/js/50504.8fd80508.chunk.js",
     "static/js/2213.b704278f.chunk.js": "/CRYPTO/static/js/2213.b704278f.chunk.js",
@@ -2114,14 +2115,15 @@
     "static/media/slick.ttf": "/CRYPTO/static/media/slick.c94f7671dcc99dce43e2.ttf",
     "static/media/slick.woff": "/CRYPTO/static/media/slick.295183786cd8a1389865.woff",
     "index.html": "/CRYPTO/index.html",
-    "main.0191e146.css.map": "/CRYPTO/static/css/main.0191e146.css.map",
-    "main.c8328d8e.js.map": "/CRYPTO/static/js/main.c8328d8e.js.map",
+    "main.0b7a6e20.css.map": "/CRYPTO/static/css/main.0b7a6e20.css.map",
+    "main.eb2bc5e2.js.map": "/CRYPTO/static/js/main.eb2bc5e2.js.map",
     "23447.25b59b18.chunk.js.map": "/CRYPTO/static/js/23447.25b59b18.chunk.js.map",
     "30421.c3fce792.chunk.js.map": "/CRYPTO/static/js/30421.c3fce792.chunk.js.map",
     "47323.b6e35d62.chunk.css.map": "/CRYPTO/static/css/47323.b6e35d62.chunk.css.map",
     "47323.325772d4.chunk.js.map": "/CRYPTO/static/js/47323.325772d4.chunk.js.map",
-    "76057.2b5c4c12.chunk.js.map": "/CRYPTO/static/js/76057.2b5c4c12.chunk.js.map",
-    "20997.2fa2d887.chunk.js.map": "/CRYPTO/static/js/20997.2fa2d887.chunk.js.map",
+    "40295.8dc3c8d5.chunk.js.map": "/CRYPTO/static/js/40295.8dc3c8d5.chunk.js.map",
+    "20997.642c254b.chunk.js.map": "/CRYPTO/static/js/20997.642c254b.chunk.js.map",
+    "68582.501fa42b.chunk.js.map": "/CRYPTO/static/js/68582.501fa42b.chunk.js.map",
     "82555.cd9d0284.chunk.js.map": "/CRYPTO/static/js/82555.cd9d0284.chunk.js.map",
     "66299.bddf988b.chunk.js.map": "/CRYPTO/static/js/66299.bddf988b.chunk.js.map",
     "93612.0b7c24bf.chunk.js.map": "/CRYPTO/static/js/93612.0b7c24bf.chunk.js.map",
@@ -3331,7 +3333,7 @@
     "29639.5a78acf9.chunk.js.map": "/CRYPTO/static/js/29639.5a78acf9.chunk.js.map",
     "85645.b6c98d56.chunk.js.map": "/CRYPTO/static/js/85645.b6c98d56.chunk.js.map",
     "67333.92fc198c.chunk.js.map": "/CRYPTO/static/js/67333.92fc198c.chunk.js.map",
-    "98438.ad2bc5b9.chunk.js.map": "/CRYPTO/static/js/98438.ad2bc5b9.chunk.js.map",
+    "76057.bd90678a.chunk.js.map": "/CRYPTO/static/js/76057.bd90678a.chunk.js.map",
     "26794.ca92c2d5.chunk.js.map": "/CRYPTO/static/js/26794.ca92c2d5.chunk.js.map",
     "50504.8fd80508.chunk.js.map": "/CRYPTO/static/js/50504.8fd80508.chunk.js.map",
     "2213.b704278f.chunk.js.map": "/CRYPTO/static/js/2213.b704278f.chunk.js.map",
@@ -4223,7 +4225,7 @@
     "42021.5c124795.chunk.js.map": "/CRYPTO/static/js/42021.5c124795.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.0191e146.css",
-    "static/js/main.c8328d8e.js"
+    "static/css/main.0b7a6e20.css",
+    "static/js/main.eb2bc5e2.js"
   ]
 }
