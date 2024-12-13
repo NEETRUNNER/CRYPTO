@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkmy_app=self.webpackChunkmy_app||[]).push([[36690],{36690:(e,l,a)=>{a.r(l),a.d(l,{default:()=>n});var h=a(89379),r=a(80045),f=a(9079),c=a(65043),d=a(70579);const p=["fallback"];var v=(0,c.forwardRef)(((e,l)=>{let{fallback:a}=e,c=(0,r.A)(e,p);return(0,d.jsx)(f.h,(0,h.A)((0,h.A)({fallback:a},c),{},{ref:l,children:(0,d.jsx)("path",{fill:"currentColor",d:"M6 2H2v4h4v16h12V6h4V2h-4v4h-4V2h-4v4H6zm4 8h4v4h-4z",fillRule:"evenodd",clipRule:"evenodd"})}))}));v.displayName="TokenROOK";var n=v}}]);
+//# sourceMappingURL=36690.733171da.chunk.js.map
