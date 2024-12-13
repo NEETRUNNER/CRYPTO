@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/CRYPTO/static/css/main.d8b2418e.css",
-    "main.js": "/CRYPTO/static/js/main.bf60d7b3.js",
+    "main.css": "/CRYPTO/static/css/main.008ea917.css",
+    "main.js": "/CRYPTO/static/js/main.7498bfaf.js",
     "static/js/23447.25b59b18.chunk.js": "/CRYPTO/static/js/23447.25b59b18.chunk.js",
     "static/js/30421.c3fce792.chunk.js": "/CRYPTO/static/js/30421.c3fce792.chunk.js",
     "static/css/47323.b6e35d62.chunk.css": "/CRYPTO/static/css/47323.b6e35d62.chunk.css",
@@ -2117,8 +2117,8 @@
     "static/media/slick.ttf": "/CRYPTO/static/media/slick.c94f7671dcc99dce43e2.ttf",
     "static/media/slick.woff": "/CRYPTO/static/media/slick.295183786cd8a1389865.woff",
     "index.html": "/CRYPTO/index.html",
-    "main.d8b2418e.css.map": "/CRYPTO/static/css/main.d8b2418e.css.map",
-    "main.bf60d7b3.js.map": "/CRYPTO/static/js/main.bf60d7b3.js.map",
+    "main.008ea917.css.map": "/CRYPTO/static/css/main.008ea917.css.map",
+    "main.7498bfaf.js.map": "/CRYPTO/static/js/main.7498bfaf.js.map",
     "23447.25b59b18.chunk.js.map": "/CRYPTO/static/js/23447.25b59b18.chunk.js.map",
     "30421.c3fce792.chunk.js.map": "/CRYPTO/static/js/30421.c3fce792.chunk.js.map",
     "47323.b6e35d62.chunk.css.map": "/CRYPTO/static/css/47323.b6e35d62.chunk.css.map",
@@ -4227,7 +4227,7 @@
     "42021.e23cc854.chunk.js.map": "/CRYPTO/static/js/42021.e23cc854.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.d8b2418e.css",
-    "static/js/main.bf60d7b3.js"
+    "static/css/main.008ea917.css",
+    "static/js/main.7498bfaf.js"
   ]
 }
